@@ -1,0 +1,244 @@
+* {
+    scroll-behavior: smooth;
+}
+
+.logo {
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+}
+
+.navItem {
+    color: #323f4b;
+    font-family: "Roboto";
+    margin: 10px;
+}
+
+.doctor-image-container {
+    background-image: url('https://th.bing.com/th?id=OIP.KWie5pU1jHpNn3ETUD4M4QHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.strong-health {
+    color: #3270e3;
+}
+
+.heading-para-button {
+    position: relative;
+    left: 70px;
+    width: 40%;
+
+}
+
+.main-heading {
+    color: #000;
+    font-size: 40px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.paragrph-about {
+    color: #323f4b;
+    font-size: 15px;
+
+}
+
+.button {
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+}
+
+.container-buttons-beside-image {
+    left: 100px;
+    width:40vw;
+}
+
+.image1 {
+    width: 250px;
+    height: 400px;
+    background-size: cover;
+    position: absolute;
+}
+
+.image2 {
+    width: 250px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    height: 400px;
+    background-size: cover;
+
+}
+
+.main-container-section-second {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+
+.section-third {
+    background-color: #677070;
+    background-size: cover;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.doctors-heading{
+    color: #000;
+    text-align: center;
+    font-size: 30px;
+}
+
+.icons-container{
+    border: 1px solid black;
+    height: 90px;
+    width: 100px;
+    background-color: #fff;
+}
+
+.icons {
+    color: #3270e3;
+    height: 50px;
+    width: 50px;
+}
+
+.icons-full-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.blue-section{
+    background-color: #3270e3;
+    width: 75%;
+    height: 400px;
+}
+
+.image-blue-section {
+    width: 800px;
+    display: flex;
+}
+
+.images-side {
+    background-image: url('https://th.bing.com/th/id/OIP.3QUJsoB5m8ORm89vPKTzngHaH6?pid=ImgDet&rs=1');
+    background-size: cover;
+    height: 400px;
+    width: 50%;
+}
+
+.blue-section-matter {
+    padding: 20px;
+    
+}
+
+.section-third-aligning-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 800px;
+}
+
+.images-blogs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.blogs-images {
+    height: 160px;
+    width: 160px;
+    margin: 10px;
+}
+
+
+.section-four {
+    margin-top: 60px;
+}
+
+
+
+.totalFooterSection {
+    background-color: #000;
+    background-size: cover;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.food-logo {
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+  }
+
+.footer-heading{
+    color: #fff;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.footer-caption {
+    color: #fff;
+    font-size: 10px;
+    font-style: oblique;
+    text-align: end;
+}
+
+.footer-company-name {
+    width: fit-content;
+}
+
+h6 {
+    color: #fff;
+    font-size: 20px;
+    margin: 10px;
+}
+
+ol {
+    padding: 0px;
+}
+
+.social-lists {
+    margin: 5px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.fotter-li {
+    color: blue;
+    margin: 10px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.footer-icons {
+    color: #fff;
+    font-size: 25px;
+    margin: 5px;
+}
+
+li {
+    list-style: none;
+}
+
+.icons-special{
+    font-size: 30px;
+}
